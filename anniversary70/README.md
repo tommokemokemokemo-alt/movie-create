@@ -2,8 +2,8 @@
 
 ## 最新：第2稿（動き・音楽の改訂）
 
-- [60秒の確認版](release02/preview-60s.mp4)
-- [7分の本編](release02/anniversary70-motion.mp4)
+- [60秒の確認版](release02/preview-60s-compatible.mp4)
+- [7分の本編](release02/anniversary70-motion-compatible.mp4)
 - [編集用PowerPoint](release02/anniversary70-motion.pptx)
 - [PowerPointと音声・手順のセット](release02/powerpoint-kit.zip)
 - [改訂内容・操作手順](release02/README.md)
