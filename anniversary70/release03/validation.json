@@ -1,0 +1,12 @@
+{
+  "duration_seconds": 420,
+  "frames": 10080,
+  "pixel_format": "yuv420p",
+  "new_images": 26,
+  "supplied_photo_scenes": 2,
+  "unique_CG_scenes": 28,
+  "history_seconds": 60,
+  "embedded_PowerPoint_videos": 28,
+  "full_decode": "passed",
+  "duplicate_visual_check": "passed"
+}
